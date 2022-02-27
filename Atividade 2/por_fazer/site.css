@@ -1,0 +1,22 @@
+h1 {
+    background-color: #851944;
+    color: #FFF;
+    text-align: center;
+}
+
+body {
+    background-color: #F2FFCF;
+    font-size: 120%;
+}
+
+p {
+    text-align: justify;
+}
+
+h1, h2 {
+    font-family: "Arial", sans-serif;
+}
+
+p {
+    font-family: "Times New Roman", serif;
+}
