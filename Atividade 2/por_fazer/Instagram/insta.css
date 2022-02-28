@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap');
+h1 {
+    background-color: whitesmoke;
+    text-align:left;
+}
+
+h1 {
+   font-family: 'Lobster Two', cursive;
+}
+
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align:left;
+}
+
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 135%;
+
+}
+
