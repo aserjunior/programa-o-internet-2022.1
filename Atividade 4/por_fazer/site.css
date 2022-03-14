@@ -1,0 +1,75 @@
+@import
+url('http://fonts.googleapis.com/css?family=Crimson+Text:400,400italic,600');
+
+@import
+url('http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700');
+
+
+h1 {
+    background-color: #851944;
+    color: #FFF;
+    text-align: center;
+}
+
+body {
+    background-color: #F2FFFC;
+    font-size: 120%;
+    font-family: "Crimson Text","Times New Roman", serif;
+}
+
+p {
+    text-align: justify;
+}
+
+h1, h2 {
+    font-family: "Open Sans Condensed", "Arial", sans-serif;
+}
+
+p {
+    font-family: "Times New Roman", serif;
+}
+
+blockquote {
+    background-color: #D9E5E3;
+}
+
+aside {
+    background-color: #3C1D3D;
+    color: #F2FFFC
+}
+
+footer {
+    background-color: black;
+    color: white;
+}
+
+aside h1 {
+    text-align: left;
+    background-color: #3C1D3D;
+}
+
+nav a:link {
+    text-decoration: underline;
+    color: white;
+    font-family: "Open Sans Condensed", "Arial", sans-serif;
+
+}
+
+nav a:visited{
+    text-decoration: underline;
+    color: white;
+    font-family: "Open Sans Condensed", "Arial", sans-serif;
+}
+
+main a:link {
+    color: #851944;
+    font-family: "Open Sans Condensed", "Arial", sans-serif;
+}
+
+main a:visited {
+    color: #851944;
+    font-family: "Open Sans Condensed", "Arial", sans-serif;
+}
+
+
+
