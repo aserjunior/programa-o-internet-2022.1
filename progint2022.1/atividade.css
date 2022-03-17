@@ -1,0 +1,60 @@
+.container{
+    border: 1px solid black;
+    margin-top: 10px;
+}
+
+header,footer{
+    background-color: #DDD;
+}
+
+header, footer, main, aside{
+    padding: 5px;
+    
+}
+
+main{
+    border-right: 1px dotted gray;
+    background-color: rgb(222, 253, 175);
+}
+
+header{
+    border-bottom: 1px dotted gray;
+    padding-bottom: 15px;
+   
+}
+
+footer, aside {
+    border-top: 1px dotted gray;
+}
+
+aside{
+    background-color: rgb(118, 184, 118);
+    color: greenyellow;
+}
+
+h2 {
+    color: black;
+    padding-top: 15px;
+}
+
+header, footer{
+    background-color: rgb(161, 219, 144);
+}
+
+footer {
+    text-align: center;
+    padding-top: 15px;
+
+}
+
+header, h1 {
+    font-size: 25px;
+}
+
+p{
+    font-size: 18px;
+}
+
+h2 {
+    font-size: 22px;
+}
