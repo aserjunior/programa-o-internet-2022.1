@@ -1,0 +1,26 @@
+header {
+    background-color: orange;  
+    margin: 20px;
+    padding: 70px;
+    padding-left: 150px;
+    
+}
+
+h1 {
+    text-align: left;
+    font-size: 60px;
+}
+
+.container{
+    border: 1px transparent;
+    
+}
+
+.row {
+    padding-top: 15px;
+}
+
+
+a:link{
+    text-decoration: none;
+}

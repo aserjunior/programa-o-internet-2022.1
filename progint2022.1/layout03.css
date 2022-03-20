@@ -1,0 +1,45 @@
+header{
+    background-color: yellow;
+    margin: 20px;
+    padding: 70px;
+    padding-left: 150px;
+}
+
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+}
+
+.col-sm-3 {
+    width: 25%;
+}
+
+footer {
+    padding: 30px 0;
+}
+
+.row {
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+
+.col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9 {
+    float: left;
+    padding: 20px;
+}
+
