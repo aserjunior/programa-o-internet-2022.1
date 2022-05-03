@@ -6,7 +6,7 @@
   API que fornece dados relacionados a NBA. É possivel acessar jogadores, times, jogos e estatística.
   
   
- 2
+2
   Reqres
   
   https://reqres.in
@@ -15,9 +15,9 @@
   
   
  
-  3
-    Kanye rest API
+3
+  Kanye rest API
   
-    https://api.kanye.rest
+  https://api.kanye.rest
   
-    API que a cada vez que é realziado um GET é apresentado um tweet do Kanye West
+  API que a cada vez que é realziado um GET é apresentado um tweet do Kanye West
