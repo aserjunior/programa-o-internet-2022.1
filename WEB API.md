@@ -1,4 +1,4 @@
-1
+1:
   balldontlie API
   
   https://www.balldontlie.io/api/v1/players/<ID>
@@ -6,7 +6,7 @@
   API que fornece dados relacionados a NBA. É possivel acessar jogadores, times, jogos e estatística.
   
   
-2
+2:
   Reqres
   
   https://reqres.in
@@ -15,7 +15,7 @@
   
   
  
-3
+3:
   Kanye rest API
   
   https://api.kanye.rest
